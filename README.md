@@ -50,7 +50,8 @@ Welcome to my GitHub profile! I'm passionate about building modern, responsive, 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/MaazUmair181
-- Portfolio: Coming Soon
+- Portfolio: https://portfolio-maazdev.netlify.app/
+
 
 ---
 
