@@ -40,10 +40,10 @@ Welcome to my GitHub profile! I'm passionate about building modern, responsive, 
 
 ## 📂 Featured Projects
 
-- 🌍 Travel Website
+- 🔐 Password Generator
 - 🧮 Calculator App
 - 🎨 Portfolio Website
-- 📱 Responsive Landing Pages
+- 📱  Responsive Landing Pages
 
 ---
 
